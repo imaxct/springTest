@@ -1,0 +1,3 @@
+16:12:17.547 [main] WARN  imaxct.LogTest - warn
+16:12:17.551 [main] DEBUG imaxct.LogTest - debug
+16:12:17.551 [main] ERROR imaxct.LogTest - error
