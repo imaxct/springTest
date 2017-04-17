@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository
  * Created by imaxct on 17-4-6.
  */
 
-@Repository()
+@Repository
 class UserDaoImpl : BaseDao<User>(), IUserDao {
 
     override fun createUser(username: String, password: String): Boolean {
